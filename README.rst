@@ -8,7 +8,7 @@ This sample Python project allows you to create an Alexa Skill that will send al
 This project extends the work done by John Wheeler who created Flask-Ask.  Flask-Ask is a `Flask extension <http://flask.pocoo.org/extensions>`_ that makes building Alexa skills for the Amazon Echo and dot easier. Get started with the `Flask-Ask quickstart <https://alexatutorial.com/flask-ask>`_ 
 
 Get Started with Python and Flask
------------------------------------
+----------------------------------
 
 1. Install Python - https://www.python.org/about/gettingstarted/
 
